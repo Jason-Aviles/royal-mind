@@ -1,0 +1,91 @@
+:root {
+  --color-primary: #7dce94;
+  --color-grey: #f6f5f3;
+  --color-grey-light: #f9f8fd;
+  --color-grey-dark: #3d3d3f;
+}
+
+// Simpler Lime Green: #7dce94
+
+// Scuffed Dark Grey: #3d3d3f
+
+// Vanilla Grey: #f6f5f3
+
+// White-ish: #f9f8fd
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+
+
+html {
+  box-sizing: border-box;
+  font-size: 62.5%; //1rem = 10px
+
+
+  @include respond(tab-land) {
+    font-size: 56.25%;//1 rem = 9px
+  }  
+  @include respond(tab-port) {
+    font-size: 50%;//1 rem = 8px
+  }
+  @include respond(phone) {
+    font-size: 50%;//1 rem = 8px
+  }
+  @include respond(small-phone) {
+    font-size: 43.75%; // 1 rem = 7 px
+  }
+  @include respond(big-desktop) {
+    font-size: 75%;
+  }
+
+
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+
+  font-weight: 400;
+  line-height: 1.6;
+  background-image: linear-gradient(
+    to right bottom,
+    var(--color-grey-light),
+    var(--color-grey-dark)
+  );
+  background-size: cover;
+  background-repeat: no-repeat;
+
+  min-height: 100vh;
+}
+
+
+
+
+
+
+/* scroll bar */
+
+/* width */
+::-webkit-scrollbar {
+  width: 2rem;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background-image: linear-gradient(to bottom right , rgb(173, 212, 173),rgb(49, 109, 49));
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background-image: linear-gradient(to bottom right,rgb(86, 129, 96),rgb(49, 88, 58)) ;
+}

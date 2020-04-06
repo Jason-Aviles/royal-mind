@@ -1,0 +1,38 @@
+
+
+/*
+$breakpoint chioces
+- phone 
+-tab-port
+-tab-land
+-big-desktop
+*/
+
+@mixin respond($breakpoint) {
+  @if $breakpoint == small-phone {
+    @media (max-width: 18.75em) {
+      @content;
+    }//300px / 16 = 18.75
+  }
+  @if $breakpoint == phone {
+    @media (max-width: 37.5em) {
+      @content;
+    }//600px / 16 = 37.5
+  }
+  @if $breakpoint == tab-port {
+    @media (max-width: 56.25em) {
+      @content;//900px
+    }
+  }
+  @if $breakpoint == tab-land {
+    @media (max-width: 75em) {
+      @content;//1800
+    }
+  }
+
+  @if $breakpoint == big-desktop {
+    @media (min-width: 112.5em) {
+      @content;
+    }
+  }
+}
