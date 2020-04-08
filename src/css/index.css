@@ -57,7 +57,7 @@ body {
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background-image: linear-gradient(to bottom right, #add4ad, #316d31); }
+  background-image: linear-gradient(to bottom right, #434943, #030803); }
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
@@ -623,8 +623,7 @@ body {
   width: 100%;
   height: 7rem;
   background-image: linear-gradient(to bottom right, #cbdacf, #5e9b6f);
-  border-bottom: #cbdacf, 1px solid;
-  z-index: 99;
+  z-index: 90;
   padding-bottom: 2rem;
   transition: all 3s; }
   @media (max-width: 75em) {
@@ -821,7 +820,8 @@ body {
   margin: 1rem;
   background: transparent;
   border: none;
-  text-align: center;
+  text-align: start;
+  padding: 0 1rem;
   border-bottom: 1px solid black;
   font-size: 1rem;
   color: #669c66; }
