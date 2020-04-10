@@ -568,7 +568,7 @@
       display: none !important;
     }
     @include respond(big-desktop) {
-      display: none !important;
+      display: flex !important;
     }
   }
 
@@ -603,6 +603,7 @@
       height: auto;
     }
     @include respond(big-desktop) {
+      display: none !important;
     }
   }
 
