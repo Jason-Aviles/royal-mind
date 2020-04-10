@@ -677,7 +677,7 @@ body {
       display: none !important; } }
   @media (min-width: 112.5em) {
     .nav__desktop {
-      display: none !important; } }
+      display: flex !important; } }
   .nav__phone {
     width: 100%;
     display: none;
@@ -706,6 +706,9 @@ body {
         display: flex !important;
         flex-direction: column !important;
         height: auto; } }
+    @media (min-width: 112.5em) {
+      .nav__phone {
+        display: none !important; } }
   .nav__logo {
     width: 50%; }
     @media (max-width: 37.5em) {
