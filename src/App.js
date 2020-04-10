@@ -15,8 +15,18 @@ import Faqs from "./components/Faqs";
 import About from "./components/About";
 import Form from "./components/Form";
 import hamburger from "./img/hamburger.png";
+
+//admin
+import Register from "./components/admin/register"
+import Login from "./components/admin/login"
+
+
+
 import Top from "./components/ScrollToTop";
+
 import { Route, NavLink, Link } from "react-router-dom";
+
+
 function App(props) {
   const [navActive, setActive] = useState(false);
   const [navActive2, setActive2] = useState(false);
@@ -340,6 +350,19 @@ function App(props) {
           render={(props) => (
             <Form {...props} setboxModalState={setboxModalState} />
           )}
+        />
+
+<Route
+          exact
+          path="/register"
+         component={Register}
+        />
+
+
+<Route
+          exact
+          path="/login"
+         component={Login}
         />
 
         <footer className="footer">

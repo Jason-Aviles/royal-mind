@@ -300,6 +300,41 @@ body {
   width: -15rem !important;
   transition: all 3s; }
 
+.admin {
+  width: 100%;
+  text-align: start;
+  margin: 4rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column; }
+  .admin__container {
+    margin: 10rem;
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 39%; }
+  .admin__header {
+    width: 100%;
+    text-transform: uppercase;
+    font-size: 2.5rem;
+    background-image: linear-gradient(to right bottom, var(--color-primary), #325832);
+    -webkit-background-clip: text;
+    color: transparent; }
+  .admin__input {
+    margin: 1rem;
+    padding: 1rem;
+    border: 1px darkred solid;
+    border-bottom: 1px red solid;
+    border-radius: 14px;
+    cursor: pointer;
+    width: 100%; }
+    .admin__input:focus {
+      outline: none;
+      border: 1px solid #2442a5; }
+
 .primary-header {
   padding: 2rem;
   position: absolute;
