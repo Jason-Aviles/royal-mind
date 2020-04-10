@@ -30,7 +30,7 @@ import { Route, NavLink, Link } from "react-router-dom";
 function App(props) {
   const [navActive, setActive] = useState(false);
   const [navActive2, setActive2] = useState(false);
-
+  const [fix, setfix] = useState(true);
   const [phoneNavState, setPhoneNavState] = useState(true);
   const [boxModalState, setboxModalState] = useState(false);
   const toggleTrueFalse = () => setPhoneNavState(!phoneNavState);
@@ -41,11 +41,11 @@ function App(props) {
     document.body.style.overflow = "scroll";
   }
 
-  return (
+  return fix && (
     <div className="cover">
       <div id="top" className="container">
         <header className="header">
-          <nav
+     {  fix &&   <nav
             className="nav nav__desktop"
             onMouseOut={() => {
               setActive(false);
@@ -115,7 +115,7 @@ function App(props) {
             <NavLink className="nav__link" to="/contact">
               Contact
             </NavLink>
-          </nav>
+          </nav>}
 
           {/* phone nav */}
           <nav
