@@ -13,7 +13,7 @@ const Insurance = (props) => {
                 INSURANCE &dArr;
                   <br></br>
                   <span className="secondary-header--sub">
-                  THE MEADOWGLADE ACCEPTS INSURANCE FOR ALL CLINICAL TREATMENTS
+                  Royal Minds ACCEPTS INSURANCE FOR ALL CLINICAL TREATMENTS
 
                   </span>
                   <div className="text-background__img-parent">
@@ -41,11 +41,11 @@ const Insurance = (props) => {
 <h2 className="anxiety__primary-text">INSURANCE ELIGIBILITY</h2>
 </div>
 <p className="anxiety__right--paragraph">
-The Meadowglade accepts insurance for all clinical treatment.  Once we obtain your policy information, we will contact your provider to determine your benefits. Upon confirmation, a member of our Admissions Team will contact you to discuss and review your coverage for all of The Meadowglade’s clinical treatment.
+Royal Minds accepts insurance for all clinical treatment.  Once we obtain your policy information, we will contact your provider to determine your benefits. Upon confirmation, a member of our Admissions Team will contact you to discuss and review your coverage for all of Royal Minds’s clinical treatment.
 </p>
 
 <p className="anxiety__right--paragraph">
-The Meadowglade aims to make the insurance verification process as straightforward and transparent as possible. We work with a wide range of insurance providers, accepting nearly all PPO insurance, and we can enter into a single case agreement in the case of HMO insurance. To ensure that our clients’ health and care are not compromised, if there is a shortfall in covered benefits from your insurance carrier for clinical treatment, The Meadowglade has a team of financial experts to assist you and also offers financing options for those with limited or no insurance available for clinical treatment.
+Royal Minds aims to make the insurance verification process as straightforward and transparent as possible. We work with a wide range of insurance providers, accepting nearly all PPO insurance, and we can enter into a single case agreement in the case of HMO insurance. To ensure that our clients’ health and care are not compromised, if there is a shortfall in covered benefits from your insurance carrier for clinical treatment, Royal Minds has a team of financial experts to assist you and also offers financing options for those with limited or no insurance available for clinical treatment.
 
 
 </p>
@@ -70,11 +70,11 @@ Our professional team is here to assist you with any insurance related matters a
 <h2 className="anxiety__primary-text">ABOUT US</h2>
 </div>
 <p className="anxiety__right--paragraph">
-The Meadowglade is an Outpatient Rehabilitation Center specializing in Mental Health and Eating Disorders. Located in Moorpark, California, The Meadowglade fosters an environment of wholesome healing, supporting the transition back to a self-sufficient harmonious lifestyle.
+Royal Minds is an Outpatient Rehabilitation Center specializing in Mental Health and Eating Disorders. Located in 3719 E Baltimore St, Baltimore, MD 21224, Royal Minds fosters an environment of wholesome healing, supporting the transition back to a self-sufficient harmonious lifestyle.
 </p>
 
 <p className="anxiety__right--paragraph">
-The Meadowglade also offers nearby optional housing on a private 24-acre estate of rolling hills, secret gardens, avocado groves, fruit orchards, and sprawling pastures.
+Royal Minds also offers nearby optional housing on a private 24-acre estate of rolling hills, secret gardens, avocado groves, fruit orchards, and sprawling pastures.
 </p>
 
 <a href="#" className="secondary-header__link" onClick={()=>props.setboxModalState(true)} >

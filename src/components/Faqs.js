@@ -45,17 +45,17 @@ Q. Will insurance cover my treatment?
 </p>
 
 <p className="anxiety__right--paragraph">
-A. Insurance will cover all clinical treatment and clinical programming at The Meadowglade. For more specific information, please contact The Meadowglade staff.
+A. Insurance will cover all clinical treatment and clinical programming at Royal Minds. For more specific information, please contact Royal Minds staff.
 
 
 </p>
 
 <p className="anxiety__right--paragraph">
-Q. How can I visit, tour or travel to The Meadowglade?
+Q. How can I visit, tour or travel to Royal Minds?
 </p>
 
 <p className="anxiety__right--paragraph">
-A. The Meadowglade is located in Moorpark, California. Our dedicated team will be happy to organize a tour of our facility housing and clinical programming, as well as speak to you about convenient travel options and pick up services for clients driving to our facility, and/or flying in from other States.
+A. Royal Minds is located in Moorpark, California. Our dedicated team will be happy to organize a tour of our facility housing and clinical programming, as well as speak to you about convenient travel options and pick up services for clients driving to our facility, and/or flying in from other States.
 </p>
 
 <a href="#" className="secondary-header__link" onClick={()=>props.setboxModalState(true)} >
@@ -79,15 +79,15 @@ A. The Meadowglade is located in Moorpark, California. Our dedicated team will b
 <h2 className="anxiety__primary-text">CUSTOMIZED TREATMENT</h2>
 </div>
 <p className="anxiety__right--paragraph">
-Q. Will The Meadowglade facilitate and support my ability to continue working/studying?
+Q. Will Royal Minds facilitate and support my ability to continue working/studying?
 </p>
 
 <p className="anxiety__right--paragraph">
-A. Yes, our programming at The Meadowglade is structured to balance ongoing work/study schedules, and/or the ability to apply for career/study options.
+A. Yes, our programming at Royal Minds is structured to balance ongoing work/study schedules, and/or the ability to apply for career/study options.
 </p>
 
 <p className="anxiety__right--paragraph">
-Q. As an adult struggling with mental health or eating disorders, will I have independent and private space/time at The Meadowglade?
+Q. As an adult struggling with mental health or eating disorders, will I have independent and private space/time at Royal Minds?
 </p>
 
 <p className="anxiety__right--paragraph">
@@ -130,7 +130,7 @@ A. Yes, our daily clinical programming is therapeutically customized to suit you
 <h2 className="anxiety__primary-text">HELP & HEALING</h2>
 </div>
 <p className="anxiety__right--paragraph">
-At The Meadowglade, our caring staff of mental health professionals is passionate about your mental health journey and wellbeing.
+At Royal Minds, our caring staff of mental health professionals is passionate about your mental health journey and wellbeing.
 </p>
 
 <p className="anxiety__right--paragraph">

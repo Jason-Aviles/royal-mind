@@ -103,7 +103,7 @@ ASD occurs after an individual experience’s traumatic events such as such as a
 <h2 className="anxiety__primary-text">HELP & HEALING</h2>
 </div>
 <p className="anxiety__right--paragraph">
-The Meadowglade offers individualized treatment for ASD.  Our treatment program is focused on managing the effects of your trauma in you and your family’s lives so that you can recover and prevent your acute symptoms from developing into a long-term condition like PTSD.
+Royal Minds offers individualized treatment for ASD.  Our treatment program is focused on managing the effects of your trauma in you and your family’s lives so that you can recover and prevent your acute symptoms from developing into a long-term condition like PTSD.
 </p>
 
 

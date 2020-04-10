@@ -346,12 +346,12 @@ function App(props) {
           <img src={logo} alt="logo" className="footer__logo" />
 
           <p className="footer__paragraph">
-            The Meadowglade is a rehabilitation facility specializing in mental
-            health and eating disorders. Located in Moorpark, California, only
-            50 min from Beverly Hills and 20 min from central Los Angeles.
+            Royal Minds is a rehabilitation facility specializing in mental
+            health and eating disorders. Located in 3719 E Baltimore St, Baltimore, MD 21224 only
+            .
           </p>
 
-          <h2 className="footer__number">(888) 272-2062</h2>
+          <a href="tel:4109201011" className="footer__number">(410)-920-1011</a>
 
           <h3 className="footer__copyright">
             Copyright 2019 Jeff Aviles | Privacy Policy

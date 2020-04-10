@@ -69,7 +69,7 @@ Anxiety disorders can impact your relationship with your colleagues, spouse, fri
 <h2 className="anxiety__primary-text">EFFECTS IN EVERY DAY LIFE</h2>
 </div>
 <p className="anxiety__right--paragraph">
-At The Meadowglade, we treat anxiety disorders with a variety of therapeutic treatments that help you manage your anxiety, as well as work through the root cause of your anxiety and identify any triggers.
+At Royal Minds, we treat anxiety disorders with a variety of therapeutic treatments that help you manage your anxiety, as well as work through the root cause of your anxiety and identify any triggers.
 </p>
 
 <p className="anxiety__right--paragraph">
@@ -124,7 +124,7 @@ Common anxiety symptoms include:
 <h2 className="anxiety__primary-text">HELP & HEALING</h2>
 </div>
 <p className="anxiety__right--paragraph">
-At The Meadowglade, our caring staff of mental health professionals is passionate about your mental health journey and wellbeing.
+At Royal Minds, our caring staff of mental health professionals is passionate about your mental health journey and wellbeing.
 </p>
 
 <p className="anxiety__right--paragraph">

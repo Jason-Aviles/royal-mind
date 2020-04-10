@@ -43,16 +43,16 @@ const About = () => {
 </div>
 <p className="anxiety__right--paragraph">
 
-The Meadowglade is an outpatient rehabilitation center specializing in mental health and eating disorders.
+Royal Minds is an outpatient rehabilitation center specializing in mental health and eating disorders.
 </p>
 
 <p className="anxiety__right--paragraph">
 
-Located in Moorpark, California, only 20 minutes from central Los Angeles, The Meadowglade fosters an environment of wholesome healing, supporting the transition back to a self-sufficient harmonious lifestyle
+Located in 3719 E Baltimore St, Baltimore, MD 21224, Royal Minds fosters an environment of wholesome healing, supporting the transition back to a self-sufficient harmonious lifestyle
 </p>
 <p className="anxiety__right--paragraph">
 
-The Meadowglade also offers nearby optional housing on a private 24-acre estate of rolling hills, secret gardens, avocado groves, fruit orchards, and sprawling pastures.
+Royal Minds also offers nearby optional housing on a private 24-acre estate of rolling hills, secret gardens, avocado groves, fruit orchards, and sprawling pastures.
 </p>
 
 
@@ -69,11 +69,11 @@ The Meadowglade also offers nearby optional housing on a private 24-acre estate 
 
 <div className="anxiety__left anxiety__right--big-padding">
 <div className="anxiety__right--header">
-<h4 className="anxiety__sub-text">THE MEADOWGLADE</h4>
+<h4 className="anxiety__sub-text">Royal Minds</h4>
 <h2 className="anxiety__primary-text">OUR MISSION</h2>
 </div>
 <p className="anxiety__right--paragraph">
-The Meadowglade’s mission is to help our clients achieve an independent work-life balance by following the therapeutic principles of benefitting mind, body and spirit, to maximize the quality of life in every way.  </p>
+Royal Minds’s mission is to help our clients achieve an independent work-life balance by following the therapeutic principles of benefitting mind, body and spirit, to maximize the quality of life in every way.  </p>
 
 <p className="anxiety__right--paragraph">
 During the 30-90 days of  treatment we aim to ensure that all states of being are nurtured in a healing environment that is both multi-layered and multi-faceted to enable recovery that is deep-rooted, wholesome and long-lasting.  </p>
@@ -110,7 +110,7 @@ During the 30-90 days of  treatment we aim to ensure that all states of being ar
 <h2 className="anxiety__primary-text">AFTERCARE</h2>
 </div>
 <p className="anxiety__right--paragraph">
-At The Meadowglade we are dedicated to the aftercare of our clients. Upon discharge, we ensure that all clients are organized with appropriate outpatient facilities to continue ongoing support and clinical assistance with respect to all mental health issues and all types of eating disorders.
+At Royal Minds we are dedicated to the aftercare of our clients. Upon discharge, we ensure that all clients are organized with appropriate outpatient facilities to continue ongoing support and clinical assistance with respect to all mental health issues and all types of eating disorders.
 </p>
 
 

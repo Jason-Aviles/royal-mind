@@ -123,7 +123,7 @@ Schizophrenia signs and symptoms include:
 <h2 className="anxiety__primary-text">HELP & HEALING</h2>
 </div>
 <p className="anxiety__right--paragraph">
-The Meadowglade offers a variety of therapeutic treatments to make you feel supported and encouraged on your journey towards mental health. Our individualized treatment plans focus on long term health and relapse prevention so that you can recover in a way that is deep-rooted and long-lasting. 
+Royal Minds offers a variety of therapeutic treatments to make you feel supported and encouraged on your journey towards mental health. Our individualized treatment plans focus on long term health and relapse prevention so that you can recover in a way that is deep-rooted and long-lasting. 
 </p>
 
 

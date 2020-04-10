@@ -23,13 +23,13 @@ const Form = () => {
     <div className="form__content">
     <div className="form__left">
     <p 
-    className="form__paragraph u-text-left">At The Meadowglade, we help you navigate through mental health challenges so that you are able to live a healthy, happy life.</p>
+    className="form__paragraph u-text-left">At Royal Minds, we help you navigate through mental health challenges so that you are able to live a healthy, happy life.</p>
     
     
     <p 
     className="form__paragraph u-text-center">Click our phone number to call us, or simply request a callback.</p>
-    
-    <h1 className="form__num u-text-center">(888) 272-2062</h1>
+    <a href="tel:4109201011" className="form__num u-text-center">(410)-920-1011</a>
+
     </div>
     <div className="form__right">
     <input type="text" placeholder="name" className="form__input"/>

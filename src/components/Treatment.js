@@ -46,11 +46,11 @@ const Stress = (props) => {
 <h2 className="anxiety__primary-text">TREATMENT MODALITIES</h2>
 </div>
 <p className="anxiety__right--paragraph">
-The Meadowglade’s treatment modalities are individualized, multi-disciplined, therapeutic, diverse and designed to address each individual’s needs in a professional, unique and holistic manner.
+Royal Minds’s treatment modalities are individualized, multi-disciplined, therapeutic, diverse and designed to address each individual’s needs in a professional, unique and holistic manner.
 </p>
 
 <p className="anxiety__right--paragraph">
-Every individual brings unique talents and skills to our program, and our goal at The Meadowglade is to maximize and channel each characteristic in a way that benefits sustained long term healing and a healthy productive lifestyle.
+Every individual brings unique talents and skills to our program, and our goal at Royal Minds is to maximize and channel each characteristic in a way that benefits sustained long term healing and a healthy productive lifestyle.
 </p>
 
 <p className="anxiety__right--paragraph">

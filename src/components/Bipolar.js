@@ -119,7 +119,7 @@ Common signs and symptoms of Bipolar disorder include:
 <h2 className="anxiety__primary-text">HELP & HEALING</h2>
 </div>
 <p className="anxiety__right--paragraph">
-The Meadowglade has a team of highly trained medical professionals that specialize in treating bipolar disorder. 
+Royal Minds has a team of highly trained medical professionals that specialize in treating bipolar disorder. 
 </p>
 
 <p className="anxiety__right--paragraph">

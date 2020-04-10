@@ -123,7 +123,7 @@ PTSD signs and symptoms include:
 <h2 className="anxiety__primary-text">HELP & HEALING</h2>
 </div>
 <p className="anxiety__right--paragraph">
-The Meadowglade offers personalized treatment and support for individuals suffering with PTSD.  Our treatment program helps a person with PTSD understand their trauma in a supportive and safe environment to reduce flashbacks and nightmares.  In treatment individuals are taught coping strategies to deal with their PTSD, giving them the tools to deal with any future trauma to ensure long term recovery
+Royal Minds offers personalized treatment and support for individuals suffering with PTSD.  Our treatment program helps a person with PTSD understand their trauma in a supportive and safe environment to reduce flashbacks and nightmares.  In treatment individuals are taught coping strategies to deal with their PTSD, giving them the tools to deal with any future trauma to ensure long term recovery
 </p>
 
 
